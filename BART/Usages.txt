@@ -1,0 +1,1 @@
+﻿UsagesInstall Dependencies:pip install -r requirements.txtRun Preprocessing:python preprocessing.pyBuild Model:python build_model.pyTrain Model:python train.pyTest Model:python test.py
